@@ -1,2 +1,2 @@
-# ClaudeCode_Learn
-- ClaudeCodeに関する学習内容をまとめるリポジトリ
+# Obsidian_Template
+- Obsidianの設定内容をまとめるリポジトリ
