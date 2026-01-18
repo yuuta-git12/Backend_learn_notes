@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "デイリー学習ノート_テンプレートのアウトライン"
             }
+          },
+          {
+            "id": "0eff96bd59acba48",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +190,13 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-memos:Thino": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "4e95304746353e01",
+  "active": "894d9af57c306f11",
   "lastOpenFiles": [
     "ロードマップ.md",
     "Note_Template/デイリー学習ノート_テンプレート.md",
