@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravelのルーティング.md",
+                "file": "学習ノート/Laravel/Laravelのルーティング.md",
                 "mode": "source",
                 "source": false
               },
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ファサード.md",
+                "file": "学習ノート/Laravel/ファサード.md",
                 "mode": "source",
                 "source": false
               },
@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note_Template/デイリー学習ノート_テンプレート.md",
+                "file": "学習ノート/Laravel/artisanコマンド.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "デイリー学習ノート_テンプレート"
+              "title": "artisanコマンド"
             }
           }
         ],
@@ -241,19 +241,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9d9084803497f73",
+  "active": "4e95304746353e01",
   "lastOpenFiles": [
-    "日報/2026-01-22.md",
-    "日報/2026-01-19.md",
-    "ファサード.md",
-    "Laravelのルーティング.md",
-    "学習ノート/Laravel/artisanコマンド.md",
-    "日報/2026-01-18.md",
-    "学習ノート/PHP/Composer.md",
-    "学習ノート/PHP/無題のファイル.md",
     "学習ノート/Laravel/Laravelのディレクトリ構成.md",
+    "学習ノート/PHP/Composer.md",
     "学習ノート/PHP/PHPで使うSQL操作のファイルの種類について.md",
     "Note_Template/デイリー学習ノート_テンプレート.md",
+    "日報/2026-01-22.md",
+    "日報/2026-01-19.md",
+    "学習ノート/Laravel/ファサード.md",
+    "学習ノート/Laravel/Laravelのルーティング.md",
+    "学習ノート/Laravel/artisanコマンド.md",
+    "日報/2026-01-18.md",
+    "学習ノート/PHP/無題のファイル.md",
     "日報",
     "学習ノート/PHP",
     "学習ノート/日報",
