@@ -10,50 +10,6 @@
           {
             "id": "21e7987f8791a818",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日報/2026-01-22.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-01-22"
-            }
-          },
-          {
-            "id": "3784875d4a12385f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学習ノート/Laravel/Laravelのルーティング.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Laravelのルーティング"
-            }
-          },
-          {
-            "id": "29df45eb7d12deaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学習ノート/Laravel/ファサード.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ファサード"
-            }
-          },
-          {
-            "id": "d9d9084803497f73",
-            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -65,8 +21,7 @@
               "title": "artisanコマンド"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,17 +196,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4e95304746353e01",
+  "active": "21e7987f8791a818",
   "lastOpenFiles": [
+    "学習ノート/Laravel/コントローラー_コマンド.md",
+    "日報/2026-01-26.md",
+    "日報/2026-01-22.md",
+    "学習ノート/Laravel/Laravelのルーティング.md",
+    "学習ノート/Laravel/ファサード.md",
+    "学習ノート/Laravel/MVC開発の手順.md",
+    "学習ノート/Laravel/ルーティング_コマンド.md",
+    "学習ノート/Laravel/マイグレーション_コマンド.md",
+    "学習ノート/Laravel/モデル_コマンド.md",
+    "学習ノート/Laravel/artisanコマンド.md",
     "学習ノート/Laravel/Laravelのディレクトリ構成.md",
     "学習ノート/PHP/Composer.md",
     "学習ノート/PHP/PHPで使うSQL操作のファイルの種類について.md",
     "Note_Template/デイリー学習ノート_テンプレート.md",
-    "日報/2026-01-22.md",
     "日報/2026-01-19.md",
-    "学習ノート/Laravel/ファサード.md",
-    "学習ノート/Laravel/Laravelのルーティング.md",
-    "学習ノート/Laravel/artisanコマンド.md",
     "日報/2026-01-18.md",
     "学習ノート/PHP/無題のファイル.md",
     "日報",

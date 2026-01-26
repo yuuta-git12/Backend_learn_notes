@@ -11,3 +11,8 @@ sail artisan list
 ./vendor/bin/sail artisan list
 
 ```
+
+[[ルーティング_コマンド]]
+[[コントローラー_コマンド]]
+[[マイグレーション_コマンド]]
+[[モデル_コマンド]]
