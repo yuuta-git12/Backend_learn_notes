@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01e4fd8e57a4580a",
+            "id": "b9fc6dad1de31be5",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日報/2026-02-11.md",
+                "file": "日報/2026-02-12.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-02-11"
-            }
-          },
-          {
-            "id": "b9fc6dad1de31be5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学習ノート/Laravel/コンポーネント.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "コンポーネント"
+              "title": "2026-02-12"
             }
           },
           {
@@ -50,9 +36,36 @@
               "icon": "lucide-file",
               "title": "Blade"
             }
+          },
+          {
+            "id": "31441a3770674f09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学習ノート/Laravel/コンポーネント.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "コンポーネント"
+            }
+          },
+          {
+            "id": "073233715e29e899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学習ノート/Laravel/バリデーション.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "バリデーション"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,17 +240,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4e95304746353e01",
+  "active": "b9fc6dad1de31be5",
   "lastOpenFiles": [
+    "学習ノート/Laravel/コンポーネント.md",
+    "日報/2026-02-12.md",
+    "学習ノート/Laravel/Blade.md",
+    "学習ノート/Laravel/バリデーション.md",
+    "学習ノート/Laravel/コンポーネント_コマンド.md",
+    "日報/2026-02-11.md",
     "学習ノート/Laravel/artisanコマンド.md",
     "学習ノート/Laravel/マイグレーション_コマンド.md",
     "学習ノート/Laravel/モデル_コマンド.md",
     "学習ノート/Laravel/コントローラー_コマンド.md",
-    "学習ノート/Laravel/コンポーネント_コマンド.md",
-    "学習ノート/Laravel/コンポーネント.md",
     "学習ノート/Laravel/ルーティング_コマンド.md",
-    "日報/2026-02-11.md",
-    "学習ノート/Laravel/Blade.md",
     "学習ノート/HTTPのリクエスト.md",
     "日報/2026-02-09.md",
     "README.md",
@@ -246,7 +261,6 @@
     "学習ノート/Laravel/oldヘルパー.md",
     "学習ノート/Laravel/ファサード.md",
     "日報/2026-02-08.md",
-    "学習ノート/Laravel/バリデーション.md",
     "日報/2026-02-04.md",
     "日報/2026-02-03.md",
     "日報/2026-02-02.md",
@@ -254,7 +268,6 @@
     "学習ノート/Laravel/拡張機能.md",
     "学習ノート/Laravel/MVC開発の手順.md",
     "日報/2026-01-22.md",
-    "日報/2026-01-26.md",
     "日報",
     "学習ノート/PHP",
     "学習ノート/日報",
