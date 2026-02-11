@@ -4,24 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "34f8cf00ba979699",
+        "id": "93a172f9ec6a3018",
         "type": "tabs",
         "children": [
           {
-            "id": "21e7987f8791a818",
+            "id": "01e4fd8e57a4580a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日報/2026-02-11.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-02-11"
+            }
+          },
+          {
+            "id": "b9fc6dad1de31be5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学習ノート/Laravel/artisanコマンド.md",
+                "file": "学習ノート/Laravel/コンポーネント.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "artisanコマンド"
+              "title": "コンポーネント"
+            }
+          },
+          {
+            "id": "b80e014912f9d60d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学習ノート/Laravel/Blade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blade"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,34 +227,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21e7987f8791a818",
+  "active": "4e95304746353e01",
   "lastOpenFiles": [
-    "学習ノート/Laravel/コントローラー_コマンド.md",
-    "日報/2026-01-26.md",
-    "日報/2026-01-22.md",
-    "学習ノート/Laravel/Laravelのルーティング.md",
-    "学習ノート/Laravel/ファサード.md",
-    "学習ノート/Laravel/MVC開発の手順.md",
-    "学習ノート/Laravel/ルーティング_コマンド.md",
+    "学習ノート/Laravel/artisanコマンド.md",
     "学習ノート/Laravel/マイグレーション_コマンド.md",
     "学習ノート/Laravel/モデル_コマンド.md",
-    "学習ノート/Laravel/artisanコマンド.md",
-    "学習ノート/Laravel/Laravelのディレクトリ構成.md",
-    "学習ノート/PHP/Composer.md",
-    "学習ノート/PHP/PHPで使うSQL操作のファイルの種類について.md",
-    "Note_Template/デイリー学習ノート_テンプレート.md",
-    "日報/2026-01-19.md",
-    "日報/2026-01-18.md",
-    "学習ノート/PHP/無題のファイル.md",
+    "学習ノート/Laravel/コントローラー_コマンド.md",
+    "学習ノート/Laravel/コンポーネント_コマンド.md",
+    "学習ノート/Laravel/コンポーネント.md",
+    "学習ノート/Laravel/ルーティング_コマンド.md",
+    "日報/2026-02-11.md",
+    "学習ノート/Laravel/Blade.md",
+    "学習ノート/HTTPのリクエスト.md",
+    "日報/2026-02-09.md",
+    "README.md",
+    "ロードマップ.md",
+    "学習ノート/Laravel/レスポンス.md",
+    "学習ノート/Laravel/oldヘルパー.md",
+    "学習ノート/Laravel/ファサード.md",
+    "日報/2026-02-08.md",
+    "学習ノート/Laravel/バリデーション.md",
+    "日報/2026-02-04.md",
+    "日報/2026-02-03.md",
+    "日報/2026-02-02.md",
+    "日報/2026-02-01.md",
+    "学習ノート/Laravel/拡張機能.md",
+    "学習ノート/Laravel/MVC開発の手順.md",
+    "日報/2026-01-22.md",
+    "日報/2026-01-26.md",
     "日報",
     "学習ノート/PHP",
     "学習ノート/日報",
-    "学習ノート/テストノート.md",
-    "学習ノート/日報/2026-01-18.md",
-    "ロードマップ.md",
     "学習ノート/Laravel",
     "学習ノート",
-    "README.md",
     "Note_Template"
   ]
 }

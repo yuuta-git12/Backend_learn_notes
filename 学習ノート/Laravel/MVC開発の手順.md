@@ -27,6 +27,6 @@
 
 # ビュー
 - `artisan`にはビューを作成するコマンドがない
-- ビューファイルは`resources/views`フォルダに作成する
+- ==ビューファイルは`resources/views`フォルダに作成する==
 - ファイル名は`index.blade.php`というように`blade`をつける。
 - Blade：Laravelが採用しているテンプレートエンジン
