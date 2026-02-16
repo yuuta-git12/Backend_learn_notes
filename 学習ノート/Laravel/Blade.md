@@ -33,7 +33,7 @@
 - 繰り返しの処理に関して`$loop`変数を使ってインデックスの参照、繰り返しの回数などの参照ができる
 - 属性を追加するディレクティブもある
 	- `@selected`：`selected`属性を追加
-	- `@checked`：`checked`属性を追加
+	- `@checked`：`()`内の条件がtrueの場合に`checked`属性を追加
 	- `@disabled`：`diabled`属性を追加
 	- `@readonly`：`readonly`属性を追加
 	- `@required`：`required`属性を追加
