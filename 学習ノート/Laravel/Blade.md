@@ -37,3 +37,9 @@
 	- `@disabled`：`diabled`属性を追加
 	- `@readonly`：`readonly`属性を追加
 	- `@required`：`required`属性を追加
+- CSRFトークン用のディレクティブ
+	- `@csrf`：CSRFトークンの隠しフィールドを生成する
+	- [[CSRF]]
+- DELETEリクエストのメソッド
+	- `@method('DELETE')`：DELETEリクエストとして処理してくれる
+	- 
