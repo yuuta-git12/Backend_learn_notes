@@ -8,65 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fc7da51f78898ec",
+            "id": "daa9acaac4e64184",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日報/2026-02-13.md",
+                "file": "日報/2026-03-01.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-02-13"
+              "title": "2026-03-01"
             }
           },
           {
-            "id": "b80e014912f9d60d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学習ノート/Laravel/Blade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Blade"
-            }
-          },
-          {
-            "id": "31441a3770674f09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学習ノート/Laravel/コンポーネント.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "コンポーネント"
-            }
-          },
-          {
-            "id": "77420c56821617c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学習ノート/Laravel/コンポーネント_コマンド.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "コンポーネント_コマンド"
-            }
-          },
-          {
-            "id": "073233715e29e899",
+            "id": "57ebb381e3877ea5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,35 +38,63 @@
             }
           },
           {
-            "id": "7a56f0d1e6e1047a",
+            "id": "2bf2462d8d8e1ded",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学習ノート/バックエンド共通/numeric型の計算について.md",
+                "file": "学習ノート/Laravel/Laravel Breeze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "numeric型の計算について"
+              "title": "Laravel Breeze"
             }
           },
           {
-            "id": "62e369d10af6f59e",
+            "id": "1b182791576f2052",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "学習ノート/Laravel/コンポーネント.md",
-                "bFile": "学習ノート/Laravel/コンポーネント.md",
-                "aRef": ""
+                "file": "学習ノート/Laravel/イベントとリスナ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: コンポーネント  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "イベントとリスナ"
+            }
+          },
+          {
+            "id": "1299f2bed12fcec6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ミドルウェアメソッド.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ミドルウェアメソッド"
+            }
+          },
+          {
+            "id": "18c6b22ff612151d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学習ノート/PHP/DateTimeクラス.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DateTimeクラス"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -140,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "csrf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -271,47 +257,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新規ベースを作成": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-memos:Thino": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62e369d10af6f59e",
+  "active": "18c6b22ff612151d",
   "lastOpenFiles": [
-    "日報/2026-02-13.md",
-    "学習ノート/Laravel/コンポーネント.md",
-    "学習ノート/Laravel/Blade.md",
-    "学習ノート/Laravel/コンポーネント_コマンド.md",
-    "日報/2026-02-12.md",
-    "学習ノート/バックエンド共通/numeric型の計算について.md",
-    "学習ノート/バックエンド共通",
+    "学習ノート/PHP/標準クラスライブラリについて.md",
+    "学習ノート/PHP/DateTimeクラス.md",
+    "日報/2026-03-01.md",
+    "ミドルウェアメソッド.md",
+    "日報/2026-02-25.md",
+    "学習ノート/Laravel/Laravel Breeze.md",
     "学習ノート/Laravel/バリデーション.md",
-    "日報/2026-02-11.md",
-    "学習ノート/Laravel/artisanコマンド.md",
+    "学習ノート/Laravel/イベントとリスナ.md",
+    "日報/2026-02-03.md",
+    "学習ノート/Laravel/カスケード.md",
+    "学習ノート/バックエンド共通/CSRF.md",
+    "学習ノート/PHP/Composer.md",
+    "日報/2026-02-24.md",
+    "学習ノート/Laravel/Blade.md",
+    "学習ノート/Laravel/英語ドキュメントを読むコツ.md",
+    "学習ノート/Laravel/拡張機能.md",
+    "学習ノート/Laravel/ルートモデルバインディング.md",
+    "日報/2026-02-19.md",
+    "日報/2026-02-18.md",
+    "日報/2026-02-17.md",
+    "学習ノート/Laravel/oldヘルパー.md",
+    "学習ノート/Laravel/コンポーネント.md",
+    "学習ノート/Laravel/コンポーネント_コマンド.md",
+    "学習ノート/Laravel/ファサード.md",
     "学習ノート/Laravel/マイグレーション_コマンド.md",
     "学習ノート/Laravel/モデル_コマンド.md",
-    "学習ノート/Laravel/コントローラー_コマンド.md",
-    "学習ノート/Laravel/ルーティング_コマンド.md",
-    "学習ノート/HTTPのリクエスト.md",
-    "日報/2026-02-09.md",
-    "README.md",
-    "ロードマップ.md",
-    "学習ノート/Laravel/レスポンス.md",
-    "学習ノート/Laravel/oldヘルパー.md",
-    "学習ノート/Laravel/ファサード.md",
-    "日報/2026-02-08.md",
-    "日報/2026-02-04.md",
-    "日報/2026-02-03.md",
-    "日報/2026-02-02.md",
-    "日報/2026-02-01.md",
-    "学習ノート/Laravel/拡張機能.md",
+    "学習ノート/バックエンド共通",
     "日報",
     "学習ノート/PHP",
     "学習ノート/日報",
