@@ -55,20 +55,6 @@
             "id": "1b182791576f2052",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学習ノート/Laravel/イベントとリスナ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "イベントとリスナ"
-            }
-          },
-          {
-            "id": "1299f2bed12fcec6",
-            "type": "leaf",
-            "state": {
               "type": "split-diff-view",
               "state": {
                 "aFile": ".obsidian/workspace.json",
@@ -80,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -255,7 +241,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1299f2bed12fcec6",
+  "active": "1b182791576f2052",
   "lastOpenFiles": [
     "学習ノート/バックエンド共通/リソースリークについて.md",
     "学習ノート/PHP/コードスニペット_CSVインジェクション対策.md",
