@@ -4,7 +4,7 @@
 ```php
 // 形式: NNNN_事業者名_YYYYMM分
 	// 先頭4桁がナンバリング、末尾6桁+分が使用月
-	if (!preg_match('/^(\d{4})_.+_(\d{6})分(?:_(電気|ガス))?$/u', $name_without_ext, $matches)) {
+	if (!preg_match('/^(\d{4})_.+_(\d{6})分(?:_(未納分|滞納分))?$/u', $name_without_ext, $matches)) {
 		return false;
 	}
 ```
