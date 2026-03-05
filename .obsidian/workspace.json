@@ -8,47 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "daa9acaac4e64184",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日報/2026-03-01.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-03-01"
-            }
-          },
-          {
             "id": "57ebb381e3877ea5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学習ノート/Laravel/バリデーション.md",
+                "file": "学習ノート/Laravel/Laravel Breeze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "バリデーション"
+              "title": "Laravel Breeze"
             }
           },
           {
-            "id": "2bf2462d8d8e1ded",
+            "id": "8cad8a94479cb581",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学習ノート/Laravel/ルーティング_コマンド.md",
+                "file": "日報/2026-03-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ルーティング_コマンド"
+              "title": "2026-03-04"
+            }
+          },
+          {
+            "id": "fddfdffbf98b2c23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学習ノート/PHP/PHPでの正規表現関数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PHPでの正規表現関数"
+            }
+          },
+          {
+            "id": "207fc42260afee11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "認証処理の作成.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "認証処理の作成"
             }
           }
         ],
@@ -84,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "csrf",
+                "query": "null",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,34 +239,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4e95304746353e01",
+  "active": "0eff96bd59acba48",
   "lastOpenFiles": [
-    "学習ノート/PHP/DateTimeクラス.md",
-    "学習ノート/PHP/DirectoryIteratorクラス.md",
+    "学習ノート/PHP/ZIPArchiveの使い方.md",
+    "学習ノート/PHP/AWS_S3ファイルアクセス.md",
+    "memo.md",
+    "学習ノート/PHP/PHPでの正規表現関数.md",
+    "メール確認.md",
+    "日報/2026-03-04.md",
+    "認証処理の作成.md",
+    "学習ノート/バックエンド共通/docker-compose.ymlの書き方.md",
+    "ミドルウェアメソッド.md",
+    "学習ノート/PHP/RecursiveDirectoryIteratorクラス.md",
+    "学習ノート/Laravel/Laravel Breeze.md",
+    "日報/2026-03-01.md",
+    "学習ノート/Laravel/バリデーション.md",
+    "学習ノート/PHP/モダンPHP学習ガイド.md",
     "学習ノート/PHP/標準クラスライブラリについて.md",
     "学習ノート/PHP/コードスニペット_CSVインジェクション対策.md",
+    "学習ノート/Laravel/ルーティング_コマンド.md",
+    "学習ノート/PHP/DateTimeクラス.md",
+    "学習ノート/PHP/DirectoryIteratorクラス.md",
     "学習ノート/バックエンド共通/リソースリークについて.md",
-    "日報/2026-03-01.md",
-    "学習ノート/PHP/モダンPHP学習ガイド.md",
-    "ミドルウェアメソッド.md",
     "日報/2026-02-25.md",
-    "学習ノート/Laravel/Laravel Breeze.md",
-    "学習ノート/Laravel/バリデーション.md",
     "学習ノート/Laravel/イベントとリスナ.md",
     "日報/2026-02-03.md",
     "学習ノート/Laravel/カスケード.md",
     "学習ノート/バックエンド共通/CSRF.md",
     "学習ノート/PHP/Composer.md",
-    "日報/2026-02-24.md",
-    "学習ノート/Laravel/Blade.md",
-    "学習ノート/Laravel/英語ドキュメントを読むコツ.md",
-    "学習ノート/Laravel/拡張機能.md",
-    "学習ノート/Laravel/ルートモデルバインディング.md",
-    "日報/2026-02-19.md",
-    "日報/2026-02-18.md",
-    "日報/2026-02-17.md",
-    "学習ノート/Laravel/oldヘルパー.md",
-    "学習ノート/Laravel/コンポーネント.md",
     "学習ノート/バックエンド共通",
     "日報",
     "学習ノート/PHP",
